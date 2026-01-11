@@ -1,0 +1,80 @@
+[
+  {
+    "id": "adult-wildlife-photography",
+    "title": "Wildlife Photography Walk",
+    "category": "Adults",
+    "summary": "Learn composition and camera basics while spotting animals on the trail.",
+    "date": "2026-02-12",
+    "time": "10:30",
+    "durationMins": 90,
+    "priceGBP": 12,
+    "location": "Woodland Trail",
+    "accessibility": "Outdoor paths. Benches available. Suitable for beginners.",
+    "details": "Bring a phone or camera. We’ll cover lighting, focus, and respectful wildlife viewing."
+  },
+  {
+    "id": "adult-conservation-talk",
+    "title": "Conservation Q&A Talk",
+    "category": "Adults",
+    "summary": "Ask questions about habitats, biodiversity, and local conservation projects.",
+    "date": "2026-02-19",
+    "time": "18:00",
+    "durationMins": 60,
+    "priceGBP": 0,
+    "location": "Education Hub",
+    "accessibility": "Indoor seating and hearing-friendly seating at the front.",
+    "details": "A short talk followed by open Q&A with our conservation team."
+  },
+  {
+    "id": "kids-mini-rangers",
+    "title": "Mini Rangers Club",
+    "category": "Children",
+    "summary": "A fun session with badges: tracks, habitats, and animal facts.",
+    "date": "2026-02-15",
+    "time": "11:00",
+    "durationMins": 60,
+    "priceGBP": 6,
+    "location": "Learning Garden",
+    "accessibility": "Quiet corner available. Activities can be adapted.",
+    "details": "Children earn a sticker badge and complete a simple activity sheet."
+  },
+  {
+    "id": "kids-bug-safari",
+    "title": "Bug Safari",
+    "category": "Children",
+    "summary": "Explore mini-beasts safely with magnifiers and observation trays.",
+    "date": "2026-02-22",
+    "time": "14:00",
+    "durationMins": 50,
+    "priceGBP": 5,
+    "location": "Meadow Hide",
+    "accessibility": "Flat viewing area. Staff assist with handling rules.",
+    "details": "We observe, identify, then return everything safely to nature."
+  },
+  {
+    "id": "accessible-relaxed-visit",
+    "title": "Relaxed Visit (Low Sensory)",
+    "category": "Accessible",
+    "summary": "A quieter session with reduced noise and smaller groups.",
+    "date": "2026-02-16",
+    "time": "09:30",
+    "durationMins": 75,
+    "priceGBP": 0,
+    "location": "Visitor Centre",
+    "accessibility": "Low-sensory approach, step-free routes, staff support available.",
+    "details": "Ideal for visitors who prefer calm environments. Visual guide available at reception."
+  },
+  {
+    "id": "accessible-guided-route",
+    "title": "Accessible Guided Route",
+    "category": "Accessible",
+    "summary": "A staff-led route focusing on step-free paths and rest stops.",
+    "date": "2026-02-23",
+    "time": "13:00",
+    "durationMins": 60,
+    "priceGBP": 0,
+    "location": "Step-Free Loop",
+    "accessibility": "Step-free. Rest stops. Wheelchair-friendly.",
+    "details": "We move at a comfortable pace and stop often for viewing and questions."
+  }
+]
