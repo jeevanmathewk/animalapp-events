@@ -1,0 +1,68 @@
+[
+  {
+    "id": "red-fox",
+    "name": "Red Fox",
+    "scientificName": "Vulpes vulpes",
+    "category": "Adults",
+    "zone": "Woodland Trail",
+    "summary": "A clever omnivore found across the UK, often active at dusk and dawn.",
+    "habitat": "Woodlands, farmland edges, urban parks",
+    "diet": "Small mammals, insects, fruit",
+    "imageUrl": "https://images.unsplash.com/photo-1542190891-2093d38760f2?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "barn-owl",
+    "name": "Barn Owl",
+    "scientificName": "Tyto alba",
+    "category": "Children",
+    "zone": "Meadow Hide",
+    "summary": "A pale owl with silent flight, hunting mainly at night over open fields.",
+    "habitat": "Farmland, grassland, barns",
+    "diet": "Voles, mice, small birds",
+    "imageUrl": "https://images.unsplash.com/photo-1501706362039-c6e8098c8a03?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "european-hedgehog",
+    "name": "European Hedgehog",
+    "scientificName": "Erinaceus europaeus",
+    "category": "Accessible",
+    "zone": "Night Garden",
+    "summary": "A nocturnal insect-eater that curls into a spiky ball for protection.",
+    "habitat": "Gardens, hedgerows, woodland edges",
+    "diet": "Beetles, worms, slugs",
+    "imageUrl": "https://images.unsplash.com/photo-1527176930608-09cb256ab504?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "eurasian-otter",
+    "name": "Eurasian Otter",
+    "scientificName": "Lutra lutra",
+    "category": "Adults",
+    "zone": "Riverbank",
+    "summary": "A playful swimmer that needs clean rivers and healthy fish populations.",
+    "habitat": "Rivers, lakes, wetlands",
+    "diet": "Fish, amphibians, crustaceans",
+    "imageUrl": "https://images.unsplash.com/photo-1530281700549-e82e7bf110d6?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "common-frog",
+    "name": "Common Frog",
+    "scientificName": "Rana temporaria",
+    "category": "Children",
+    "zone": "Pond Walk",
+    "summary": "A familiar amphibian often seen near ponds, especially in spring.",
+    "habitat": "Ponds, wetlands, gardens",
+    "diet": "Insects, worms, slugs",
+    "imageUrl": "https://images.unsplash.com/photo-1544551763-7ef420a2b71a?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "roe-deer",
+    "name": "Roe Deer",
+    "scientificName": "Capreolus capreolus",
+    "category": "Accessible",
+    "zone": "Forest Edge",
+    "summary": "A small, shy deer found in woodland and countryside across the UK.",
+    "habitat": "Woodland, scrub, farmland edges",
+    "diet": "Leaves, shoots, berries",
+    "imageUrl": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=1200&q=80"
+  }
+]
