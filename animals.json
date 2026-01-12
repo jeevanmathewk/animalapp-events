@@ -7,7 +7,7 @@
     "summary": "A clever omnivore found across the UK, often active at dusk and dawn.",
     "habitat": "Woodlands, farmland edges, urban parks",
     "diet": "Small mammals, insects, fruit",
-    "imageUrl": "https://raw.githubusercontent.com/jeevanmathewk/animalapp-events/blob/main/fox.jpg"
+    "imageUrl": "deer.jpg"
   
   },
   {
@@ -18,7 +18,7 @@
     "summary": "A pale owl with silent flight, hunting mainly at night over open fields.",
     "habitat": "Farmland, grassland, barns",
     "diet": "Voles, mice, small birds",
-    "imageUrl": "https://raw.githubusercontent.com/jeevanmathewk/animalapp-events/blob/main/owl.jpg"
+    "imageUrl": "owl.jpg"
   },
   {
     "id": "european-hedgehog",
@@ -28,7 +28,7 @@
     "summary": "A nocturnal insect-eater that curls into a spiky ball for protection.",
     "habitat": "Gardens, hedgerows, woodland edges",
     "diet": "Beetles, worms, slugs",
-    "imageUrl": "https://raw.githubusercontent.com/jeevanmathewk/animalapp-events/blob/main/hedgehog.jpg"
+    "imageUrl": "hedgehog.jpg"
   },
   {
     "id": "eurasian-otter",
@@ -38,7 +38,7 @@
     "summary": "A playful swimmer that needs clean rivers and healthy fish populations.",
     "habitat": "Rivers, lakes, wetlands",
     "diet": "Fish, amphibians, crustaceans",
-    "imageUrl": "https://raw.githubusercontent.com/jeevanmathewk/animalapp-events/blob/main/otter.jpg"
+    "imageUrl": "otter.jpg"
   },
   {
     "id": "common-frog",
@@ -48,7 +48,7 @@
     "summary": "A familiar amphibian often seen near ponds, especially in spring.",
     "habitat": "Ponds, wetlands, gardens",
     "diet": "Insects, worms, slugs",
-    "imageUrl": "https://raw.githubusercontent.com/jeevanmathewk/animalapp-events/blob/main/frog.jpg"
+    "imageUrl": "frog.jpg"
   },
   {
     "id": "roe-deer",
@@ -58,6 +58,6 @@
     "summary": "A small, shy deer found in woodland and countryside across the UK.",
     "habitat": "Woodland, scrub, farmland edges",
     "diet": "Leaves, shoots, berries",
-    "imageUrl": "https://raw.githubusercontent.com/jeevanmathewk/animalapp-events/blob/main/deer.jpg"
+    "imageUrl": "deer.jpg"
   }
 ]
